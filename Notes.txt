@@ -1,0 +1,16 @@
+Data Analysis Process
+Question
+    Question you want to answer or problem you want to solve
+Wrangle
+    Data Acquisition
+    Data Cleaning
+Explore
+    Build Intuition
+    Find Patterns
+Conclusions
+    Predict
+    Conclude
+    Involves statistics or machine learning
+Communication
+    Blog Post, Paper, Email, Powerpoint, Conversation
+    Data Visualization
